@@ -1,7 +1,7 @@
 ##  Project Overview
 This project is a simple calculator implemented in C. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator takes user input, processes the operation, and returns the result.
 
-## 🚀 Installation & Compilation
+## Installation & Compilation
 1. Clone this repository:
    ```sh
    git clone https://github.com/georgiassc/calculator.git
